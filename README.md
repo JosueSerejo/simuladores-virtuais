@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/ut5tjGp.png" alt="Banner do Projeto" width="800"/>
+  <img src="https://i.imgur.com/ut5tjGp.png" alt="Banner do Projeto" width="1000"/>
 </div>
 
 > Repositório colaborativo para catalogar simuladores e ferramentas interativas **gratuitas** que apoiam o ensino em TODAS as áreas do conhecimento (Exatas, Humanas, Linguagens, etc.).
