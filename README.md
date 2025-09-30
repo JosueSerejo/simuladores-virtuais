@@ -10,7 +10,9 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 
 **👉 Leia nosso [Guia de Contribuição (CONTRIBUTING.md)](CONTRIBUTING.md) antes de enviar seu PR!**
 
-## 📚 Categorias de Materiais
+<div align="center">
+  <img src="https://i.imgur.com/3Np7mPT.png" alt="Banner do Projeto" width="1000"/>
+</div>
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática)
 * Simulador: [PHET Interactive Simulations](https://phet.colorado.edu/pt_BR/): Coleção de simulações interativas gratuitas.
