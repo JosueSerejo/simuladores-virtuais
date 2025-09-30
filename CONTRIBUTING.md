@@ -1,4 +1,6 @@
-# 🤝 Guia de Contribuição: Simuladores Virtuais para Educação
+<div align="center">
+  <img src="https://imgur.com/rE1XD6Z.png" alt="Banner do Projeto" width="1000"/>
+</div>
 
 Bem-vindo(a) ao nosso projeto! Agradecemos seu interesse em ajudar a construir a melhor lista de simuladores e ferramentas educacionais gratuitas.
 
