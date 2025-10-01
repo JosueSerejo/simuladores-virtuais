@@ -15,23 +15,23 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 </div>
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática)
-* Simulador: [PHET Interactive Simulations](https://phet.colorado.edu/pt_BR/): Coleção de simulações interativas gratuitas.
+* Simulador: [PHET Interactive Simulations](https://phet.colorado.edu/pt_BR/): Coleção de simulações interativas gratuitas. (Idioma: PT-BR/EN)
 
 
 ### 🌍 Ciências Humanas (História, Geografia, Sociologia)
-* Ferramenta: [Google Earth Voyager](https://earth.google.com/web/): Para visitas e exploração virtual de locais históricos e geográficos.
+* Ferramenta: [Google Earth Voyager](https://earth.google.com/web/): Para visitas e exploração virtual de locais históricos e geográficos. (Idioma: PT-BR/EN)
 
 
 ### 🗣️ Linguagens e Artes
-* Simulador: [Typing Club](https://www.typingclub.com/): Para prática de digitação, útil para aulas de informática ou produção de texto.
+* Simulador: [Typing Club](https://www.typingclub.com/): Para prática de digitação, útil para aulas de informática ou produção de texto. (Idioma: PT-BR/EN)
 
 
 ### 🌱 Ciências Biológicas e Ambientais (Biologia, Ecologia, Botânica)
-* Simulador: [BioMan Biology](https://biomanbio.com/): Jogos e simulações interativas para aprender conceitos de biologia, como genética, ecologia, células e evolução.
-* Simulador: [Labster](https://www.labster.com/): Simulações 3D de laboratório para biologia, química e física, cobrindo tópicos como células, DNA, ecossistemas e mais. Possui conteúdos gratuitos.
-* Simulador: [PhET Simulações Interativas – Biologia](https://phet.colorado.edu/pt_BR/simulations/category/biology): Simulações interativas sobre processos biológicos, como fotossíntese, genética e fisiologia.
-* Ferramenta: [HHMI BioInteractive](https://www.biointeractive.org/classroom-resources): Oferece uma vasta gama de recursos, incluindo simulações, vídeos e atividades sobre evolução, neurociência, DNA e mais.
-* Simulador: [Molecular Workbench](https://mw.concord.org/nextgen/): Conjunto de simulações de biologia, química e física que modelam o comportamento de partículas e moléculas.
-* Simulador: [Learn.Genetics](https://learn.genetics.utah.edu/): Conteúdo interativo da Universidade de Utah para explorar genética, biologia celular, evolução e saúde humana.
+* Simulador: [BioMan Biology](https://biomanbio.com/): Jogos e simulações interativas para aprender conceitos de biologia, como genética, ecologia, células e evolução. (Idioma: EN)
+* Simulador: [Labster](https://www.labster.com/): Simulações 3D de laboratório para biologia, química e física, cobrindo tópicos como células, DNA, ecossistemas e mais. Possui conteúdos gratuitos. (Idioma: EN)
+* Simulador: [PhET Simulações Interativas – Biologia](https://phet.colorado.edu/pt_BR/simulations/category/biology): Simulações interativas sobre processos biológicos, como fotossíntese, genética e fisiologia. (Idioma: PT-BR/EN)
+* Ferramenta: [HHMI BioInteractive](https://www.biointeractive.org/classroom-resources): Oferece uma vasta gama de recursos, incluindo simulações, vídeos e atividades sobre evolução, neurociência, DNA e mais. (Idioma: EN/ES)
+* Simulador: [Molecular Workbench](https://mw.concord.org/nextgen/): Conjunto de simulações de biologia, química e física que modelam o comportamento de partículas e moléculas. (Idioma: EN)
+* Simulador: [Learn.Genetics](https://learn.genetics.utah.edu/): Conteúdo interativo da Universidade de Utah para explorar genética, biologia celular, evolução e saúde humana. (Idioma: EN)
 
 ### 📊 Ferramentas Gerais e Produtividade
