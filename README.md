@@ -35,3 +35,20 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 * Simulador: [PhET Simulações Interativas – Biologia](https://phet.colorado.edu/pt_BR/simulations/category/biology): Simulações interativas sobre processos biológicos, como fotossíntese, genética e fisiologia. (Idioma: PT-BR/EN)
 
 ### 📊 Ferramentas Gerais e Produtividade
+
+
+
+<div align="center">
+  <img src="https://imgur.com/TIOxhj9.png" alt="Banner do Projeto" width="1000"/>
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fnetgit" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/142954449" width="100px;" alt="Foto de Fnetgit"/><br>
+        <sub>
+          <b>Fnetgit</b>
+        </sub>
+      </a>
+    </td>
