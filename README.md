@@ -14,8 +14,9 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
   <img src="https://i.imgur.com/3Np7mPT.png" alt="Banner do Projeto" width="1000"/>
 </div>
 
-### ⚛️ Ciências Exatas (Física, Química, Matemática)
+### ⚛️ Ciências Exatas (Física, Química, Matemática, Computação)
 * Simulador: [PHET Interactive Simulations](https://phet.colorado.edu/pt_BR/): Coleção de simulações interativas gratuitas. (Idioma: PT-BR/EN)
+* Ferramenta: [Tinkercad](https://www.tinkercad.com/): Uma plataforma que permite criar projetos em 3D e programar Arduino, simuladondo circuitos com diversos componentes eletrônicos. (Idioma: PT-BR/EN) 
 
 
 ### 🌍 Ciências Humanas (História, Geografia, Sociologia)
