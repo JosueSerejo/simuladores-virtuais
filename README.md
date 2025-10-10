@@ -20,6 +20,8 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 * Simulador: [SimuFísica](https://simufisica.com/): Simulações computacionais interativas para conteúdos de física e de outras ciências. (Idioma: PT-BR/EN)
 * Simulador: [Yenka](https://yenka.com/): é um software educativo desenvolvido para a área da educação, oferecendo módulos que simulam experimentos de física, química, tecnologia, matemática e programação, permitindo a criação de aulas interativas e a experimentação segura em ambientes virtuais. (Idioma: EN)
 * Simulador: [Stellarium](https://stellarium-web.org/): é um planetário gratuito e de código aberto que simula o céu em 3D com alta precisão, mostrando estrelas, planetas, constelações, nebulosas e outros corpos celestes em tempo real. (Idioma: EN)
+* Ferramenta [GeoGebra](https://www.geogebra.org/calculator): Uma plataforma de matemática dinâmica muito completa que une geometria, álgebra, planilhas, gráficos, estatística e cálculo. Permite a criação de construções geométricas interativas, gráficos de funções e até simulações simples.
+* Simulador [Laboratório Virtual de Física - UFC](https://www.laboratoriovirtual.fisica.ufc.br/): Oferece simulações interativas e experimentos filmados para o ensino de diversos tópicos de Física, sendo um recurso brasileiro com material em português.
 
 ### 🌍 Ciências Humanas (História, Geografia, Sociologia)
 * Ferramenta: [Google Earth Voyager](https://earth.google.com/web/): Para visitas e exploração virtual de locais históricos e geográficos. (Idioma: PT-BR/EN)
