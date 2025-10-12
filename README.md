@@ -16,21 +16,15 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática, Computação)
 * Simulador: [PHET Interactive Simulations](https://phet.colorado.edu/pt_BR/): Coleção de simulações interativas gratuitas. (Idioma: PT-BR/EN)
-* Ferramenta: [Tinkercad](https://www.tinkercad.com/): Uma plataforma que permite criar projetos em 3D e programar Arduino, simuladondo circuitos com diversos componentes eletrônicos. (Idioma: PT-BR/EN)
-* Simulador: [SimuFísica](https://simufisica.com/): Simulações computacionais interativas para conteúdos de física e de outras ciências. (Idioma: PT-BR/EN)
-* Simulador: [Yenka](https://yenka.com/): é um software educativo desenvolvido para a área da educação, oferecendo módulos que simulam experimentos de física, química, tecnologia, matemática e programação, permitindo a criação de aulas interativas e a experimentação segura em ambientes virtuais. (Idioma: EN)
-* Simulador: [Stellarium](https://stellarium-web.org/): é um planetário gratuito e de código aberto que simula o céu em 3D com alta precisão, mostrando estrelas, planetas, constelações, nebulosas e outros corpos celestes em tempo real. (Idioma: EN)
-* Ferramenta [GeoGebra](https://www.geogebra.org/calculator): Uma plataforma de matemática dinâmica muito completa que une geometria, álgebra, planilhas, gráficos, estatística e cálculo. Permite a criação de construções geométricas interativas, gráficos de funções e até simulações simples.
-* Simulador [Laboratório Virtual de Física - UFC](https://www.laboratoriovirtual.fisica.ufc.br/): Oferece simulações interativas e experimentos filmados para o ensino de diversos tópicos de Física, sendo um recurso brasileiro com material em português.
+* Ferramenta: [Tinkercad](https://www.tinkercad.com/): Uma plataforma que permite criar projetos em 3D e programar Arduino, simuladondo circuitos com diversos componentes eletrônicos. (Idioma: PT-BR/EN) 
+
 
 ### 🌍 Ciências Humanas (História, Geografia, Sociologia)
 * Ferramenta: [Google Earth Voyager](https://earth.google.com/web/): Para visitas e exploração virtual de locais históricos e geográficos. (Idioma: PT-BR/EN)
-* Simulador: [Simuladores do LARP (USP)](https://www.larp.mae.usp.br/rv/): O Laboratório de Arqueologia Romana Provincial (LARP), desenvolveu diversos simuladores e aplicações interativas sobre a Roma Antiga, incluindo aplicativos de Realidade Aumentada (RA). (Idioma: PT-BR)7
-* Ferramenta: [StudHistoria](https://studhistoria.com.br/categoria-produto/produtos-gratuitos/): Stud História é um site pensado para o estudante do Ensino Fundamental e Média aprender História de uma maneira prazerosa e significativa.
+
 
 ### 🗣️ Linguagens e Artes
 * Simulador: [Typing Club](https://www.typingclub.com/): Para prática de digitação, útil para aulas de informática ou produção de texto. (Idioma: PT-BR/EN)
-* Ferramenta: [Patrimônio Aberto (Openheritage)](https://artsandculture.google.com/project/openheritage): É um projeto do Google Arts & Culture que utiliza mapeamento 3D a laser para preservar e compartilhar o patrimônio cultural do mundo, especialmente locais ameaçados por conflitos, desastres naturais e o tempo, oferecendo visitas virtuais e acesso a dados 3D desses sítios
 
 
 ### 🌱 Ciências Biológicas e Ambientais (Biologia, Ecologia, Botânica)
@@ -53,5 +47,6 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
  <tr>
   <td align="center"><a href="https://github.com/fnetgit" target="_blank"><img src="https://avatars.githubusercontent.com/u/142954449" width="100px" alt="Foto de Fnetgit"/><br><sub><b>Fnetgit</b></sub></a></td>
   <td align="center"><a href="https://github.com/celenny" target="_blank"><img src="https://avatars.githubusercontent.com/u/70456452?v=4" width="100px" alt="Foto de Celenny"/><br><sub><b>Celenny</b></sub></a></td>
+    <td align="center"><a href="https://github.com/eumarianamota" target="_blank"><img src="https://avatars.githubusercontent.com/u/168020952?v=4" width="100px" alt="Foto de Mariana"/><br><sub><b>Celenny</b></sub></a></td>
  </tr>
 </table>
