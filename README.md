@@ -45,8 +45,9 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 
 <table>
  <tr>
+  <td align="center"><a href="https://github.com/josueserejo" target="_blank"><img src="https://avatars.githubusercontent.com/u/148235064?v=4" width="100px" alt="Foto de Serejo"/><br><sub><b>Serejo</b></sub></a></td>
   <td align="center"><a href="https://github.com/fnetgit" target="_blank"><img src="https://avatars.githubusercontent.com/u/142954449" width="100px" alt="Foto de Fnetgit"/><br><sub><b>Fnetgit</b></sub></a></td>
   <td align="center"><a href="https://github.com/celenny" target="_blank"><img src="https://avatars.githubusercontent.com/u/70456452?v=4" width="100px" alt="Foto de Celenny"/><br><sub><b>Celenny</b></sub></a></td>
-    <td align="center"><a href="https://github.com/eumarianamota" target="_blank"><img src="https://avatars.githubusercontent.com/u/168020952?v=4" width="100px" alt="Foto de Mariana"/><br><sub><b>Celenny</b></sub></a></td>
+    <td align="center"><a href="https://github.com/eumarianamota" target="_blank"><img src="https://avatars.githubusercontent.com/u/168020952?v=4" width="100px" alt="Foto de Mariana"/><br><sub><b>Mariana</b></sub></a></td>
  </tr>
 </table>
