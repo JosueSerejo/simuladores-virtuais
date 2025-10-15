@@ -15,13 +15,17 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 </div>
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática, Computação)
+* Simulador: [Falstad Math and Physics Simulations](https://falstad.com/mathphysics.html): Coleção de simulações interativas de matemática e física, abrangendo tópicos como ondas, circuitos, mecânica, eletromagnetismo e geometria. (Idioma: EN)
 * Simulador: [GeoGebra](https://www.geogebra.org/): Plataforma interativa para explorar geometria, gráficos e matemática básica, permitindo criar simulações simples para atividades escolares. (Idioma: PT-BR/EN)
 * Simulador: [PHET Interactive Simulations](https://phet.colorado.edu/pt_BR/): Coleção de simulações interativas gratuitas. (Idioma: PT-BR/EN)
+* Simulador: [Physics Animations (Vascak.cz)](https://www.vascak.cz/physicsanimations.php?l=pt): Simulações animadas de conceitos fundamentais de física, como movimento, força, energia e óptica. Ideal para uso didático no ensino médio. (Idioma: PT)
+* Ferramenta: [Scratch](https://scratch.mit.edu/): Plataforma gratuita desenvolvida pelo MIT que permite criar histórias animadas, jogos e simulações por meio de programação em blocos. Excelente para introduzir lógica e pensamento computacional no ensino fundamental e médio. (Idioma: PT-BR/EN)
 * Ferramenta: [Tinkercad](https://www.tinkercad.com/): Uma plataforma que permite criar projetos em 3D e programar Arduino, simuladondo circuitos com diversos componentes eletrônicos. (Idioma: PT-BR/EN) 
 
 
 ### 🌍 Ciências Humanas (História, Geografia, Sociologia)
 * Ferramenta: [Google Earth Voyager](https://earth.google.com/web/): Para visitas e exploração virtual de locais históricos e geográficos. (Idioma: PT-BR/EN)
+* Simulador: [Mission US](https://www.mission-us.org/): Simulador interativo que permite vivenciar períodos históricos dos EUA, promovendo aprendizado por imersão. (Idioma: EN)
 
 
 ### 🗣️ Linguagens e Artes
@@ -32,9 +36,11 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 * Simulador: [BioMan Biology](https://biomanbio.com/): Jogos e simulações interativas para aprender conceitos de biologia, como genética, ecologia, células e evolução. (Idioma: EN)
 * Ferramenta: [HHMI BioInteractive](https://www.biointeractive.org/classroom-resources): Oferece uma vasta gama de recursos, incluindo simulações, vídeos e atividades sobre evolução, neurociência, DNA e mais. (Idioma: EN/ES)
 * Simulador: [Labster](https://www.labster.com/): Simulações 3D de laboratório para biologia, química e física, cobrindo tópicos como células, DNA, ecossistemas e mais. Possui conteúdos gratuitos. (Idioma: EN)
+* Simulador: [LabXchange](https://www.labxchange.org/): Simulador de laboratórios virtuais da Universidade de Harvard, cobrindo biologia, química e ciências da vida. (Idioma: EN)
 * Simulador: [Learn.Genetics](https://learn.genetics.utah.edu/): Conteúdo interativo da Universidade de Utah para explorar genética, biologia celular, evolução e saúde humana. (Idioma: EN)
 * Simulador: [Molecular Workbench](https://mw.concord.org/nextgen/): Conjunto de simulações de biologia, química e física que modelam o comportamento de partículas e moléculas. (Idioma: EN)
 * Simulador: [PhET Simulações Interativas – Biologia](https://phet.colorado.edu/pt_BR/simulations/category/biology): Simulações interativas sobre processos biológicos, como fotossíntese, genética e fisiologia. (Idioma: PT-BR/EN)
+
 
 ### 📊 Ferramentas Gerais e Produtividade
 
