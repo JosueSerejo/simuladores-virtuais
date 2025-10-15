@@ -15,6 +15,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 </div>
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática, Computação)
+* Simulador: [GeoGebra](https://www.geogebra.org/): Plataforma interativa para explorar geometria, gráficos e matemática básica, permitindo criar simulações simples para atividades escolares. (Idioma: PT-BR/EN)
 * Simulador: [PHET Interactive Simulations](https://phet.colorado.edu/pt_BR/): Coleção de simulações interativas gratuitas. (Idioma: PT-BR/EN)
 * Ferramenta: [Tinkercad](https://www.tinkercad.com/): Uma plataforma que permite criar projetos em 3D e programar Arduino, simuladondo circuitos com diversos componentes eletrônicos. (Idioma: PT-BR/EN) 
 
