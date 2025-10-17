@@ -64,5 +64,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
   <td align="center"><a href="https://github.com/celenny" target="_blank"><img src="https://avatars.githubusercontent.com/u/70456452?v=4" width="100px" alt="Foto de Celenny"/><br><sub><b>Celenny</b></sub></a></td>
     <td align="center"><a href="https://github.com/eumarianamota" target="_blank"><img src="https://avatars.githubusercontent.com/u/168020952?v=4" width="100px" alt="Foto de Mariana"/><br><sub><b>Mariana</b></sub></a></td>
     <td align="center"><a href="https://github.com/josuekla" target="_blank"><img src="https://avatars.githubusercontent.com/u/154643595?v=4" width="100px" alt="Foto de Josué"/><br><sub><b>Josué</b></sub></a></td>
+    <td align="center"><a href="https://github.com/vinimetric" target="_blank"><img src="https://avatars.githubusercontent.com/u/43424669?v=4" width="100px" alt="Foto de Vinicius"/><br><sub><b>Vinicius </b></sub></a></td>
+    <td align="center"><a href="https://github.com/jowgaze" target="_blank"><img src="https://avatars.githubusercontent.com/u/80285848?v=4" width="100px" alt="Foto de Jonatha"/><br><sub><b>Jonatha</b></sub></a></td>
  </tr>
 </table>
