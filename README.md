@@ -16,6 +16,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática, Computação)
 * Simulador: [Falstad Math and Physics Simulations](https://falstad.com/mathphysics.html): Coleção de simulações interativas de matemática e física, abrangendo tópicos como ondas, circuitos, mecânica, eletromagnetismo e geometria. (Idioma: EN)
+* Simulador: [Flexbox Froggy](https://flexboxfroggy.com/): Plataforma educacional para o aprendizado de css, um jogo onde você ajuda Froggy e seus amigos escrevendo código CSS! (Idioma: PT-BR/EN)
 * Simulador: [GeoGebra](https://www.geogebra.org/): Plataforma interativa para explorar geometria, gráficos e matemática básica, permitindo criar simulações simples para atividades escolares. (Idioma: PT-BR/EN)
 * Simulador: [Physics Animations (Vascak.cz)](https://www.vascak.cz/physicsanimations.php?l=pt): Simulações animadas de conceitos fundamentais de física, como movimento, força, energia e óptica. Ideal para uso didático no ensino médio. (Idioma: PT)
 * Ferramenta: [Scratch](https://scratch.mit.edu/): Plataforma gratuita desenvolvida pelo MIT que permite criar histórias animadas, jogos e simulações por meio de programação em blocos. Excelente para introduzir lógica e pensamento computacional no ensino fundamental e médio. (Idioma: PT-BR/EN)
