@@ -68,5 +68,10 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
     <td align="center"><a href="https://github.com/josuekla" target="_blank"><img src="https://avatars.githubusercontent.com/u/154643595?v=4" width="100px" alt="Foto de Josué"/><br><sub><b>Josué</b></sub></a></td>
     <td align="center"><a href="https://github.com/vinimetric" target="_blank"><img src="https://avatars.githubusercontent.com/u/43424669?v=4" width="100px" alt="Foto de Vinicius"/><br><sub><b>Vinicius </b></sub></a></td>
     <td align="center"><a href="https://github.com/jowgaze" target="_blank"><img src="https://avatars.githubusercontent.com/u/80285848?v=4" width="100px" alt="Foto de Jonatha"/><br><sub><b>Jonatha</b></sub></a></td>
- </tr>
+    </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/KastroWalker" target="_blank"><img src="https://avatars.githubusercontent.com/u/40522492?v=4" width="100px" alt="Foto de KastroWalker"/><br><sub><b>Victor</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Kaua-cel" target="_blank"><img src="https://avatars.githubusercontent.com/u/152986409?v=4" width="100px" alt="Foto de Kauã"/><br><sub><b>Kauã</b></sub></a></td>
+  </tr>
+    
 </table>
