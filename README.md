@@ -40,6 +40,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 * Simulador: [Typing Club](https://www.typingclub.com/): Para prática de digitação, útil para aulas de informática ou produção de texto. (Idioma: PT-BR/EN)
 * Ferramenta: [Patrimônio Aberto (Openheritage)](https://artsandculture.google.com/project/openheritage): É um projeto do Google Arts & Culture que utiliza mapeamento 3D a laser para preservar e compartilhar o patrimônio cultural do mundo, especialmente locais ameaçados por conflitos, desastres naturais e o tempo, oferecendo visitas virtuais e acesso a dados 3D desses sítios
 * Simulador: [Viola The Bird](https://experiments.withgoogle.com/viola-the-bird): Experimente um novo instrumento inspirado no violoncelo na mais recente edição de música e tecnologia de David Li, criador do Blob Opera.
+* Ferramenta: [WeaveSilk](http://weavesilk.com/): Uma ferramenta de criação de arte digital simétrica com efeitos visuais suaves que estimulam a criatividade e a expressão artística.
 
 
 ### 🌱 Ciências Biológicas e Ambientais (Biologia, Ecologia, Botânica)
