@@ -75,6 +75,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
     <tr>
     <td align="center"><a href="https://github.com/KastroWalker" target="_blank"><img src="https://avatars.githubusercontent.com/u/40522492?v=4" width="100px" alt="Foto de KastroWalker"/><br><sub><b>Victor</b></sub></a></td>
     <td align="center"><a href="https://github.com/Kaua-cel" target="_blank"><img src="https://avatars.githubusercontent.com/u/152986409?v=4" width="100px" alt="Foto de Kauã"/><br><sub><b>Kauã</b></sub></a></td>
+    <td align="center"><a href="https://github.com/euwilk" target="_blank"><img src="https://avatars.githubusercontent.com/u/151868473?v=4" width="100px" alt="Foto de Wilk"/><br><sub><b>Wilk</b></sub></a></td>
   </tr>
     
 </table>

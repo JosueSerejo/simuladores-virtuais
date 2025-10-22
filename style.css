@@ -22,7 +22,6 @@ body {
   min-height: 100vh;
 }
 
-/* NOVO ESTILO DO CABEÇALHO (HEADER) SIMPLIFICADO */
 header {
   background: linear-gradient(135deg, #7b1fa2, var(--cor-principal));
   color: white;
@@ -47,9 +46,6 @@ header p {
   font-size: 1.2em;
   opacity: 0.9;
 }
-
-/* FIM NOVO ESTILO DO CABEÇALHO */
-
 
 .container {
   max-width: 1200px;
@@ -108,7 +104,6 @@ header p {
   border-left: 8px solid var(--cor-secundaria);
 }
 
-/* Estilo Adicionado para a Subdivisão de Áreas */
 .category-section h4 {
   font-size: 1.4em;
   color: var(--cor-principal);
@@ -119,7 +114,6 @@ header p {
   font-weight: 700;
 }
 
-/* Fim do estilo para h4 */
 
 .cards-grid {
   display: grid;
