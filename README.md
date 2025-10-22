@@ -28,6 +28,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 * Ferramenta: [World Pendulum Alliance](https://wpa.tecnico.ulisboa.pt/~wpa.daemon/): é um projeto que busca construir uma rede de experimentos remotos, atualmente trabalhando com pêndulos dispostos em diferentes partes do mundo para coletar dados da aceleração da gravidade em diferentes latitudes. (Idioma: PT/EN)
 * Simulador: [TensorFlow Playground](https://playground.tensorflow.org): Plataforma interativa que permite visualizar e experimentar o funcionamento de redes neurais artificiais diretamente no navegador. O usuário pode ajustar parâmetros como número de camadas, taxa de aprendizado e funções de ativação, observando em tempo real como o modelo aprende. (Idioma: EN)
 * Simulador: [Desmos Graphing Calculator](https://www.desmos.com/calculator): Calculadora gráfica online interativa que permite visualizar funções matemáticas, criar gráficos dinâmicos e explorar conceitos de álgebra, cálculo e geometria analítica de forma visual e intuitiva. (Idioma: PT-BR/EN)
+* Simulador: [Algodoo](https://www.algodoo.com/): Um software de simulação 2D que permite criar cenários interativos de física, como mecânica, fluidos e óptica, de maneira lúdica e experimental. (Idioma: PT-BR/EN)
 
 ### 🌍 Ciências Humanas (História, Geografia, Sociologia)
 * Ferramenta: [Google Earth Voyager](https://earth.google.com/web/): Para visitas e exploração virtual de locais históricos e geográficos. (Idioma: PT-BR/EN)
