@@ -78,5 +78,4 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
     <td align="center"><a href="https://github.com/euwilk" target="_blank"><img src="https://avatars.githubusercontent.com/u/151868473?v=4" width="100px" alt="Foto de Wilk"/><br><sub><b>Wilk</b></sub></a></td>
     <td align="center"><a href="https://github.com/Shubham-cyber-prog" target="_blank"><img src="https://avatars.githubusercontent.com/u/178073021?v=4" width="100px" alt="Foto de Subham"/><br><sub><b>Subham</b></sub></a></td>
   </tr>
-    
 </table>
