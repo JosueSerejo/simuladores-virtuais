@@ -15,6 +15,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 </div>
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática, Computação)
+* Simulador: [Beecrowd](https://judge.beecrowd.com/): é uma plataforma online para praticar programação e lógica por meio da resolução de desafios. (Idioma: PT-BR/EN)
 * Simulador: [Falstad Math and Physics Simulations](https://falstad.com/mathphysics.html): Coleção de simulações interativas de matemática e física, abrangendo tópicos como ondas, circuitos, mecânica, eletromagnetismo e geometria. (Idioma: EN)
 * Simulador: [GeoGebra](https://www.geogebra.org/): Plataforma interativa para explorar geometria, gráficos e matemática básica, permitindo criar simulações simples para atividades escolares. (Idioma: PT-BR/EN)
 * Simulador: [Physics Animations (Vascak.cz)](https://www.vascak.cz/physicsanimations.php?l=pt): Simulações animadas de conceitos fundamentais de física, como movimento, força, energia e óptica. Ideal para uso didático no ensino médio. (Idioma: PT)
