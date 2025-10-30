@@ -15,7 +15,7 @@ Este projeto é **Beginner-Friendly** e está participando do **Hacktoberfest**.
 </div>
 
 ### ⚛️ Ciências Exatas (Física, Química, Matemática, Computação)
-* Simulador: [BeeCrowd](https://judge.beecrowd.com): Plataforma de desafios de programação. Ela oferece problemas de diversos níveis de dificuldade, onde programadores podem testar suas habilidades em várias linguagens e competir por rankings(Idioma: PT/EN)
+* Simulador: [Racha Cuca](https://rachacuca.com.br/logica/problemas/): É um site que oferece jogos, desafios e problemas de lógica para exercitar o raciocínio e a concentração, com atividades interativas e gratuitas. (Idioma: PT-BR)
 * Simulador: [Falstad Math and Physics Simulations](https://falstad.com/mathphysics.html): Coleção de simulações interativas de matemática e física, abrangendo tópicos como ondas, circuitos, mecânica, eletromagnetismo e geometria. (Idioma: EN)
 * Simulador: [Flexbox Defense](http://www.flexboxdefense.com/): Jogo de defesa de torres que ensina CSS Flexbox. O objetivo é usar o layout flexível para posicionar torres e impedir que inimigos passem pelo mapa. (Idioma: EN)
 * Simulador: [Flexbox Froggy](https://flexboxfroggy.com/): Plataforma educacional para o aprendizado de css, um jogo onde você ajuda Froggy e seus amigos escrevendo código CSS! (Idioma: PT-BR/EN)
